@@ -1,0 +1,10 @@
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe.config
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\bin\Debug\GUICalculator.exe
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\bin\Debug\GUICalculator.pdb
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csprojAssemblyReference.cache
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\obj\Debug\GUICalculator.Form1.resources
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\obj\Debug\GUICalculator.Properties.Resources.resources
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csproj.GenerateResource.cache
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\obj\Debug\GUICalculator.csproj.CoreCompileInputs.cache
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\obj\Debug\GUICalculator.exe
+C:\Users\smelr\Documents\Computer Science\Object-Oriented Programming\GUICalculator\GUICalculator\obj\Debug\GUICalculator.pdb
